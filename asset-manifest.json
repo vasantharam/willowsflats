@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/willowsflats/static/js/main.4455587c.js",
+    "main.js": "/willowsflats/static/js/main.fc5400f2.js",
     "main.css": "/willowsflats/static/css/main.95a9503b.css",
-    "static/js/453.00b9b416.chunk.js": "/willowsflats/static/js/453.00b9b416.chunk.js",
+    "static/js/453.6657fbbd.chunk.js": "/willowsflats/static/js/453.6657fbbd.chunk.js",
     "index.html": "/willowsflats/index.html",
     "main.95a9503b.css.map": "/willowsflats/static/css/main.95a9503b.css.map"
   },
   "entrypoints": [
-    "static/js/main.4455587c.js",
+    "static/js/main.fc5400f2.js",
     "static/css/main.95a9503b.css"
   ]
 }
